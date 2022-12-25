@@ -1,4 +1,7 @@
 {
   "name": "ionic-capacitor-phone-call-demo",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
